@@ -1,0 +1,39 @@
+.middle-section {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  column-gap: 40px;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  color: #224F34;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+  align-items: center;
+}
+.left-section {
+  font-family: "Fondamento", cursive;
+  font-size: 40px;
+  margin-right: 130px;
+}
+.right-section {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.login-btn {
+  font-family: poppins;
+  font-size: 18px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 8px 27px;
+  border-color: #224F34;
+  border-radius: 3px;
+  color: #224F34;
+  background-color: #C2EFD4;
+}

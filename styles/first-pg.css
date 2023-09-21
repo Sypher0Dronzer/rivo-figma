@@ -1,0 +1,59 @@
+.title{
+    font-family: 'Rufina', serif;
+    font-size: 80px;
+    color: #224F34;
+    
+}
+.title-box{
+    padding-top: 34px;
+    height: 649px;
+    width: 632px;
+}
+.explore{
+    margin-top: 20px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 22px;
+    line-height: 45px;
+    width: 500px;
+    color: #267D49;
+}
+.explore-btn{
+    font:Poppins;
+    font-size: 20px;
+    color: white;
+    background-color: #224F34;
+    border: none;
+    border-radius: 3px;
+    padding: 25px 45px;
+    margin-top: 60px;
+
+}
+.model-box{
+    background-color: #6BC785;
+    height: 694px;
+    width: 530px;
+    border-radius: 141px 45px 150px 82px;
+    position: relative;
+}
+.model-pic{
+    position: absolute;
+    right: -8px;
+    height: auto;
+    width: 550px;
+}
+.dots-right{
+    position: absolute;
+    right: 10px;
+    top: 146px;
+}
+.dots-left{
+    position: absolute;
+    left: 15px;
+    bottom: 95px;
+}
+
+.box-1{
+    display: flex;
+    justify-content: space-between;
+}

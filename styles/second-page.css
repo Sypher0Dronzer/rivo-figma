@@ -1,0 +1,78 @@
+.selling-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 70px;
+    column-gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.regular-fit{
+    background-color: #93B9A2;
+}
+.black-crop{
+    background-color: #A9D4BA;
+}
+.sunset{
+    background-color: #CADCD0;
+}
+.title-pg2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 64px;
+    text-align: center;
+    margin-top: 100px;
+    color: #224F34;
+}
+.trend{
+    font-family: Poppins;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 40px;
+    color: #224F34;
+    font-family: Poppins;
+}
+.product-details{
+    width: 250px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 22px;
+    
+}
+.product-name{
+    font-family: Poppins;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+.price, .divider,.rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.see-all{
+    font-family: poppins;
+    font-size: 22px;
+    color: #224F34;
+    border-radius: 3px;
+    background-color:white ;
+    border-color: #224F34;
+    padding: 10px 40px;
+}
+.product-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.btn-placing{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.product-positioning{
+    display: flex;
+    justify-content: center;
+}
